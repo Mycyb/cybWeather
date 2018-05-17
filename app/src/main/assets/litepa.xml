@@ -1,0 +1,9 @@
+<litepal>
+    <dbname value="cyb_weather"/>
+    <version value="1"/>
+    <list>
+        <mapping class="com.cybWeather.android.db.Province"/>
+        <mapping class="com.cybWeather.android.db.City"/>
+        <mapping class="com.cybWeather.android.db.Country"/>
+    </list>
+</litepal>
